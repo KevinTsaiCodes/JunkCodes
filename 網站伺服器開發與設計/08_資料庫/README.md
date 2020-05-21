@@ -1,3 +1,5 @@
+#### 附加資料庫
+![Capture_2020_05_21_10_06_08_508](https://user-images.githubusercontent.com/53148219/82515547-095a8080-9b4b-11ea-9c33-066398e91856.png)
 #### 顯示資料庫控制項
 ![Capture_2020_05_21_09_24_44_516](https://user-images.githubusercontent.com/53148219/82514256-e084bc00-9b47-11ea-88f8-c9a7db4ea85c.png)
 #### 選擇新連線
