@@ -7,6 +7,8 @@
 
 #### 選擇表單名稱
 ![Capture_2020_05_21_09_40_36_706](https://user-images.githubusercontent.com/53148219/82515108-0317d480-9b4a-11ea-8381-68726b97043e.png)
+#### 預覽表單
+![Capture_2020_05_21_09_41_15_841](https://user-images.githubusercontent.com/53148219/82515205-440fe900-9b4a-11ea-8eb3-9b767b4e8ccd.png)
 
 
 #### 要顯示資料庫欄位的地方
