@@ -24,6 +24,7 @@ if __name__ == '__main__':
 	model.add(tf.keras.layers.Dense(128,activation=tf.nn.relu)) # hidden layer
 	# model.add(tf.keras.layers.Dense(neurals,activation=tf.nn.activate_functions))
 	model.add(tf.keras.layers.Dense(128,activation=tf.nn.relu)) # hidden layer
+	model.add(tf.keras.layers.Dense(22,activation=tf.nn.relu)) # hidden layer
 	model.add(tf.keras.layers.Dense(10,activation=tf.nn.softmax)) # output layer
 	
 	# training
@@ -36,3 +37,16 @@ if __name__ == '__main__':
 	"""
 	model.fit(x_train, y_train, epochs=3) # train your model
 	# A neural network doesn't actually attempt to maximize accuracy. It attempts to minimize loss.
+	model.summary()
+	val_loss, val_acc = model.evaluate(x_test, y_test)
+	print('val_loss: ',val_loss) # model's loss (error)
+	print('val_acc: ',val_acc) # model's accuracy
+	model.save('epic_num_reader.model') # save model, model.save('save_model_file')
+	new_model = tf.keras.models.load_model('epic_num_reader.model')
+	predictions = new_model.predict(x_test)
+	print('predictions:\n',predictions) # show predictions
+
+	import numpy as np
+	print('predict in predictions[2]\n',np.argmax(predictions[2]))
+	plt.imshow(x_test[2])
+	plt.show()
