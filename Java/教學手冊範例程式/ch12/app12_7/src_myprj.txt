@@ -1,0 +1,3 @@
+C:\Java\app12_7\pack7\app12_7.java
+C:\Java\app12_7\pack7\subpack1\CCircle.java
+C:\Java\app12_7\pack7\subpack2\CBox.java

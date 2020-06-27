@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>myprj</label>
+		<id>23</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>myprj.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>myprj.jcp</path>
+		</project>
+	</projects>
+</workspace>

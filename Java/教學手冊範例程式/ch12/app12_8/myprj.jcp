@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>myprj</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>pack8.app12_8</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>pack8</path>
+			</folderitem>
+			<folderitem>
+				<path>pack8\subpack1</path>
+			</folderitem>
+			<folderitem>
+				<path>pack8\subpack2</path>
+			</folderitem>
+			<fileitem>
+				<path>pack8\app12_8.java</path>
+				<folder>pack8</folder>
+			</fileitem>
+			<fileitem>
+				<path>pack8\subpack1\CCircle.java</path>
+				<folder>pack8\subpack1</folder>
+			</fileitem>
+			<fileitem>
+				<path>pack8\subpack2\CBox.java</path>
+				<folder>pack8\subpack2</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

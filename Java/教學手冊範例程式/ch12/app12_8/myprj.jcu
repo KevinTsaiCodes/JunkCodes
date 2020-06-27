@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>myprj</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>myprj</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>pack8</path>
+			</folderitem>
+			<folderitem>
+				<path>pack8\subpack1</path>
+			</folderitem>
+			<folderitem>
+				<path>pack8\subpack2</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>pack8\app12_8.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>pack8\subpack1\CCircle.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>pack8\subpack2\CBox.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
