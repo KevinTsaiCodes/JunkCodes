@@ -11,3 +11,5 @@
     https://www.tensorflow.org/resources/learn-ml
 ### Fundations of ML
     https://www.youtube.com/user/hsuantien/playlists
+### PHP Tutorials
+    https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-&fbclid=IwAR1wRn9kb6zpBLtq1tro49iNYwqzdnvICKglZgGZJ9hkxNRqm1BQREqtUpA
