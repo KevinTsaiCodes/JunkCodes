@@ -13,3 +13,7 @@
     https://www.youtube.com/user/hsuantien/playlists
 ### PHP Tutorials
     https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-&fbclid=IwAR1wRn9kb6zpBLtq1tro49iNYwqzdnvICKglZgGZJ9hkxNRqm1BQREqtUpA
+### Scikit-Learn Course - Machine Learning in Python Tutorial
+    https://www.youtube.com/watch?reload=9&v=pqNCD_5r0IU&feature=youtu.be
+### Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial
+    https://www.youtube.com/watch?v=qFJeN9V1ZsI&feature=youtu.be
