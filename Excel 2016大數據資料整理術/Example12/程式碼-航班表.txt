@@ -1,0 +1,5 @@
+Public Sub 顯著格式()
+  Selection.Font.Bold = True
+  Selection.Font.Color = RGB(244, 150, 12)
+  Selection.Font.Size = 12
+End Sub
