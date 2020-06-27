@@ -1,0 +1,114 @@
+@charset "utf-8";
+p,ol {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 150%;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+form {
+	margin: 0px;
+}
+a {
+	text-decoration: none;
+}
+a:link {
+	color: #0066CC;
+}
+a:visited {
+	color: #0066CC;
+}
+a:hover {
+	color: #FF0000;
+}
+.dataDiv {
+	margin: 10px;
+}
+
+.title {
+	font-family: "微軟正黑體";
+	font-size: 24pt;
+	font-weight: bolder;
+	color: #FF3300;
+}
+.heading {
+	font-family: "微軟正黑體";
+	font-size: 13pt;
+	color: #0066CC;
+	line-height: 150%;
+	font-weight: bold;
+}
+.smalltext {
+	font-size: 11px;
+	color: #999999;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	vertical-align: middle;
+}
+.trademark {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #0099FF;
+}
+.regbox {
+	border: 1px solid #656565;
+	padding: 15px;
+	background-color: #F0F0F0;
+}
+.boxtl {
+	background-image: url(images/tl.gif);
+	float: left;
+	top: -1px;
+	height: 4px;
+	width: 4px;
+	background-repeat: no-repeat;
+}
+.boxtr {
+	background-image: url(images/tr.gif);
+	float: right;
+	top: -1px;
+	height: 4px;
+	width: 4px;
+	background-repeat: no-repeat;
+}
+.boxbl {
+	background-image: url(images/bl.gif);
+	float: left;
+	top: -1px;
+	height: 4px;
+	width: 4px;
+	background-repeat: no-repeat;
+	margin-top: -4px;
+}
+.boxbr {
+	background-image: url(images/br.gif);
+	float: right;
+	top: -1px;
+	height: 4px;
+	width: 4px;
+	background-repeat: no-repeat;
+	margin-top: -4px;
+}
+.tdrline {
+	border-right-width: 1px;
+	border-right-style: dotted;
+	border-right-color: #999999;
+}
+.tdbline {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #999999;
+}
+.clear {
+	clear: both;
+}
+.logintextbox {
+	width: 150px;
+}
+.errDiv {
+	font-family: "微軟正黑體";
+	font-size: 10pt;
+	color: #FFFFFF;
+	background-color: #FF0000;
+	padding: 4px;
+	text-align: center;
+}
