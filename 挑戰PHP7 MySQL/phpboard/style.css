@@ -1,0 +1,76 @@
+@charset "utf-8";
+#mainRegion {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#mainRegion p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 20px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+#mainRegion form {
+	margin: 0px;
+}
+
+#mainRegion .postname {
+	font-size: 9pt;
+	font-weight: bold;
+	color: #0066CC;
+}
+
+#mainRegion .heading {
+	font-family: "微軟正黑體";
+	font-size: 13pt;
+	color: #FF6600;
+	line-height: 150%;
+	font-weight: normal;
+}
+#mainRegion .smalltext {
+	font-size: 11px;
+	color: #999999;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	vertical-align: middle;
+}
+#mainRegion .actiondiv {
+	float: right;
+	/* [disabled]margin-top: -24px; */
+	font-size: 11pt;
+	font-family: "微軟正黑體";
+}
+#mainRegion .actiondiv a:hover {
+	color: #FFFFFF;
+	background-color: #CC0000;
+}
+
+#mainRegion a {
+	text-decoration: none;
+}
+#mainRegion a:link {
+	color: #0066CC;
+}
+#mainRegion a:visited {
+	color: #0066CC;
+}
+#mainRegion a:hover {
+	color: #FF0000;
+}
+.itemheading {
+	font-family: "微軟正黑體";
+	font-size: 11pt;
+	color: #CC0000;
+	font-weight: bolder;
+}
+.trademark {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #0099FF;
+}
+.underline {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+
+}

@@ -1,0 +1,206 @@
+@charset "utf-8";
+body {
+	background-color: #F0F0F0;
+}
+p,ol,ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 150%;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+form {
+	margin: 0px;
+}
+a {
+	text-decoration: none;
+}
+a:link {
+	color: #0066CC;
+}
+a:visited {
+	color: #0066CC;
+}
+a:hover {
+	color: #FF0000;
+}
+.dataDiv {
+	margin: 5px;
+	float: left;
+}
+
+.title {
+	font-family: "微軟正黑體";
+	font-size: 24pt;
+	font-weight: bolder;
+	color: #FF3300;
+}
+.heading {
+	font-family: "微軟正黑體";
+	font-size: 13pt;
+	color: #0066CC;
+	line-height: 150%;
+	font-weight: bold;
+}
+.smalltext {
+	font-size: 11px;
+	color: #999999;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	vertical-align: baseline;
+}
+.trademark {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #0099FF;
+}
+.categorybox {
+	border: 1px solid #656565;
+	padding: 15px;
+	background-color: #F0F0F0;
+}
+.boxtl {
+	background-image: url(images/tl.gif);
+	float: left;
+	top: -1px;
+	height: 4px;
+	width: 4px;
+	background-repeat: no-repeat;
+}
+.boxtr {
+	background-image: url(images/tr.gif);
+	float: right;
+	top: -1px;
+	height: 4px;
+	width: 4px;
+	background-repeat: no-repeat;
+}
+.boxbl {
+	background-image: url(images/bl.gif);
+	float: left;
+	top: -1px;
+	height: 4px;
+	width: 4px;
+	background-repeat: no-repeat;
+	margin-top: -4px;
+}
+.boxbr {
+	background-image: url(images/br.gif);
+	float: right;
+	top: -1px;
+	height: 4px;
+	width: 4px;
+	background-repeat: no-repeat;
+	margin-top: -4px;
+}
+.tdrline {
+	border-right-width: 1px;
+	border-right-style: dotted;
+	border-right-color: #999999;
+}
+.tdbline {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #999999;
+}
+.clear {
+	clear: both;
+}
+.logintextbox {
+	width: 150px;
+}
+.infoDiv {
+	font-family: "微軟正黑體";
+	font-size: 12pt;
+	color: #990000;
+	background-color: #FF9999;
+	padding: 4px;
+	text-align: center;
+	font-weight: bold;
+}
+.errDiv {
+	font-family: "微軟正黑體";
+	font-size: 10pt;
+	color: #FFFFFF;
+	background-color: #FF0000;
+	padding: 4px;
+	text-align: center;
+}
+.actionDiv {
+	float: right;
+	margin-top: -30px;
+	font-size: 11pt;
+	font-family: "微軟正黑體";
+}
+.actionDiv a:hover {
+	color: #FFFFFF;
+	background-color: #CC0000;
+}
+.categorycount {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.albumDiv {
+	float: left;
+	height: 200px;
+	width: 150px;
+	text-align: center;
+	margin-right: 22px;
+	margin-bottom: 5px;
+}
+.albumDiv .albuminfo {
+	font-family: "微軟正黑體";
+	font-size: 11pt;
+}
+.navDiv {
+	clear: both;
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 9pt;
+	padding: 5px;
+}
+.titleDiv {
+	margin: 5px;
+	font-family: "微軟正黑體";
+	font-size: 15pt;
+	font-weight: bold;
+	color: #0066CC;
+}
+.normalDiv {
+	margin: 5px;
+}
+.subjectDiv {
+	font-family: "微軟正黑體";
+	font-size: 14pt;
+	font-weight: bold;
+	color: #996600;
+	padding: 5px;
+	clear: both;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666666;
+	margin-bottom: 10px;
+}
+.photoDiv {
+	text-align: center;
+	padding: 10px;
+}
+.clear {
+	clear: both;
+}
+.redword {
+	color:#FF0000;
+}
+.categorybox ul {
+	list-style-type:none;
+	margin-left:-20px; 
+}
+.categorybox li {
+	background-image:url(images/16-circle-blue.png); 
+	background-repeat:no-repeat; 
+	background-position:0 0 0 0; 
+	padding-left:20px;
+}
+.categorybox li a:hover {
+	background-color: #CCCC00;
+	color: #FFFFFF;
+}
