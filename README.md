@@ -17,3 +17,5 @@
     https://www.youtube.com/watch?reload=9&v=pqNCD_5r0IU&feature=youtu.be
 ### Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial
     https://www.youtube.com/watch?v=qFJeN9V1ZsI&feature=youtu.be
+### National Taiwan University AI Robot
+    http://ai.robo.ntu.edu.tw/group.php?id=1
