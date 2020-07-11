@@ -19,3 +19,4 @@
     https://www.youtube.com/watch?v=qFJeN9V1ZsI&feature=youtu.be
 ### National Taiwan University AI Robot
     http://ai.robo.ntu.edu.tw/group.php?id=1
+    https://www.csie.ntu.edu.tw/~hsinmu/courses/
