@@ -20,3 +20,5 @@
 ### National Taiwan University AI Robot
     http://ai.robo.ntu.edu.tw/group.php?id=1
     https://www.csie.ntu.edu.tw/~hsinmu/courses/
+### Science Direct
+    https://www.sciencedirect.com/
