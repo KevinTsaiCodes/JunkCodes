@@ -2,22 +2,22 @@
 ## Preface vii
 ### Chapter 1: Giving Computers the Ability to Learn from Data 1
 #### Building intelligent machines to transform data into knowledge 2
-  The three different types of machine learning 2
-  Making predictions about the future with supervised learning 3
-  Classification for predicting class labels 3
-  Regression for predicting continuous outcomes 4
-  Solving interactive problems with reinforcement learning 6
-  Discovering hidden structures with unsupervised learning 6
-  Finding subgroups with clustering 7
-  Dimensionality reduction for data compression 7
-  An introduction to the basic terminology and notations 8
-  A roadmap for building machine learning systems 10
-  Preprocessing – getting data into shape 11
-  Training and selecting a predictive model 12
-  Evaluating models and predicting unseen data instances 13
-  Using Python for machine learning 13
-  Installing Python packages 13
-  Summary 15
+#### The three different types of machine learning 2
+#### Making predictions about the future with supervised learning 3
+#### Classification for predicting class labels 3
+#### Regression for predicting continuous outcomes 4
+#### Solving interactive problems with reinforcement learning 6
+#### Discovering hidden structures with unsupervised learning 6
+#### Finding subgroups with clustering 7
+#### Dimensionality reduction for data compression 7
+#### An introduction to the basic terminology and notations 8
+#### A roadmap for building machine learning systems 10
+#### Preprocessing – getting data into shape 11
+#### Training and selecting a predictive model 12
+#### Evaluating models and predicting unseen data instances 13
+#### Using Python for machine learning 13
+#### Installing Python packages 13
+#### Summary 15
 ### Chapter 2: Training Machine Learning Algorithms
   for Classification 17
   Artificial neurons – a brief glimpse into the early history
@@ -197,20 +197,20 @@
   Other neural network architectures 381
   Convolutional Neural Networks 381
   Recurrent Neural Networks 383
-  A few last words about neural network implementation 384
-  Summary 385
+  #### A few last words about neural network implementation 384
+#### Summary 385
 ### Chapter 13: Parallelizing Neural Network Training with Theano 387
-  Building, compiling, and running expressions with Theano 388
-  What is Theano? 390
-  First steps with Theano 391
-  Configuring Theano 392
-  Working with array structures 394
-  Wrapping things up – a linear regression example 397
-  Choosing activation functions for feedforward neural networks 401
-  Logistic function recap 402
-  Estimating probabilities in multi-class classification via the
-  softmax function 404
-  Broadening the output spectrum by using a hyperbolic tangent 405
-  Training neural networks efficiently using Keras 408
-  Summary 414
-  Index 417
+#### Building, compiling, and running expressions with Theano 388
+#### What is Theano? 390
+#### First steps with Theano 391
+#### Configuring Theano 392
+#### Working with array structures 394
+#### Wrapping things up – a linear regression example 397
+#### Choosing activation functions for feedforward neural networks 401
+#### Logistic function recap 402
+#### Estimating probabilities in multi-class classification via the
+#### softmax function 404
+#### Broadening the output spectrum by using a hyperbolic tangent 405
+#### Training neural networks efficiently using Keras 408
+#### Summary 414
+#### Index 417
