@@ -1,7 +1,7 @@
-## Table of Contents
+# Table of Contents
 ## Preface vii
 ### Chapter 1: Giving Computers the Ability to Learn from Data 1
-##### Building intelligent machines to transform data into knowledge 2
+#### Building intelligent machines to transform data into knowledge 2
   The three different types of machine learning 2
   Making predictions about the future with supervised learning 3
   Classification for predicting class labels 3
