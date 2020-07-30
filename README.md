@@ -23,3 +23,5 @@
     https://www.csie.ntu.edu.tw/~hsinmu/courses/
 ### Science Direct
     https://www.sciencedirect.com/
+### Finding Thesis& Jounrnals(ieeexplore)
+    https://ieeexplore.ieee.org/Xplore/guesthome.jsp
