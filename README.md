@@ -25,3 +25,5 @@
     https://www.sciencedirect.com/
 ### Finding Thesis& Jounrnals(ieeexplore)
     https://ieeexplore.ieee.org/Xplore/guesthome.jsp
+### 東海大學程式設計批改系統
+    http://140.128.102.136/
