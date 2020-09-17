@@ -7,6 +7,6 @@
 ####### Ex. n = 1
 #######     whos n
 ####### Output:
-   Attr Name        Size                     Bytes  Class
-   ==== ====        ====                     =====  =====
-        n           1x1                          8  double
+####### Attr Name        Size                     Bytes  Class
+####### ==== ====        ====                     =====  =====
+#######     n           1x1                          8  double
