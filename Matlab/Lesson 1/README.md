@@ -17,3 +17,5 @@
 
 #### 查指令: help(怎麼使用)、lookfor 簡易查詢
 ![未命名](https://user-images.githubusercontent.com/53148219/93426669-14ea6800-f8ef-11ea-840b-abcabccc8898.png)
+
+#### 產生向量
