@@ -9,4 +9,11 @@
 
 #### 註解: %
 
+#### 清除畫面: clc
+
 #### 程式結尾都用「;」
+
+#### 開根號: sqrt
+
+#### 查指令: help(怎麼使用)、lookfor 簡易查詢
+![未命名](https://user-images.githubusercontent.com/53148219/93426669-14ea6800-f8ef-11ea-840b-abcabccc8898.png)
