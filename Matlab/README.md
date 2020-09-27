@@ -26,8 +26,7 @@
 #### plot(X_axis,Y_axis) 做圖表
 #### subplot(X_size,Y_size, place_position)
 #### place_position = 1,2,3,4 【1:左上,2:右上,3:左下,4:右下】
-#### 
-#### 
-#### 
-#### 
-#### 
+#### clear all; 清除所有變數包含自訂函數或圖形區域
+#### img1= imread('file_name'); 讀入影像並指定給影像陣列
+#### subplot(2, 3, [1, 2, 3]); 在2*3圖形區域合併圖形區 1,2,3
+#### imshow(im1); 顯示 img1 影像陣列代表的影像
