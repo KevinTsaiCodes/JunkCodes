@@ -50,3 +50,9 @@
 #### img1= imread('file_name'); 讀入影像並指定給影像陣列
 #### subplot(2, 3, [1, 2, 3]); 在2*3圖形區域合併圖形區 1,2,3
 #### imshow(im1); 顯示 img1 影像陣列代表的影像
+
+## week 04
+![1](https://user-images.githubusercontent.com/53148219/96079115-89142d80-0ee6-11eb-959e-09960ded1658.jpg)
+
+a1 = M(3:8)+sqrt(5)
+% M 陣列的第3~8的元素各加根號5之後值給定給 a1
