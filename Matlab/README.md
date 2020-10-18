@@ -65,4 +65,4 @@
 ![1](https://user-images.githubusercontent.com/53148219/96085947-21fd7580-0ef4-11eb-9cc9-0ba4c7049ec2.jpg)
 #### M1 = [1 2 3 4; 5 6 7 8]
 #### M2 = reshape(M1, 4, 2) % reshape 矩陣變形, reshape(要改的矩陣, column, row)
-#### 記住 原本 column*row = 後來的 column*row
+#### 記住 原本 column x row = 後來的 column x row
