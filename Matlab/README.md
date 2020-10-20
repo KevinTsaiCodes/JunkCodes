@@ -67,3 +67,4 @@
 #### M2 = reshape(M1, 4, 2) % reshape 矩陣變形, reshape(要改的矩陣, column, row)
 #### 記住 原本 column x row = 後來的 column x row
 #### format rat % 把小數弄成分數
+#### ~= % 不等於
