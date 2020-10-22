@@ -68,5 +68,7 @@
 #### 記住 原本 column x row = 後來的 column x row
 #### format rat % 把小數弄成分數
 #### ~= % 不等於
+#### 從視窗中讀檔案 【uiget('副檔名')】
 ![螢幕擷取畫面 2020-10-22 134718](https://user-images.githubusercontent.com/53148219/96829938-1d453e00-146d-11eb-89cf-9388130303b7.jpg)
-
+#### 照片垂直反轉
+![螢幕擷取畫面 2020-10-22 140610](https://user-images.githubusercontent.com/53148219/96831546-db69c700-146f-11eb-9741-ef6770297979.jpg)
