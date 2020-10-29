@@ -75,3 +75,4 @@
 #### n plots in one graph
 ![3](https://user-images.githubusercontent.com/53148219/97530651-8d177380-19ed-11eb-816f-21c8275e0733.jpg)
 #### Function (函式名稱要與檔案名稱一樣)
+#### 宣告: function 回傳值 = 函式名(參數1,參數2..,參數n) % 如果回傳值是超過1個，用 [  ]  框起來
