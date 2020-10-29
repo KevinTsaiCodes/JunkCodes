@@ -74,3 +74,4 @@
 ![螢幕擷取畫面 2020-10-22 140610](https://user-images.githubusercontent.com/53148219/96831546-db69c700-146f-11eb-9741-ef6770297979.jpg)
 #### n plots in one graph
 ![3](https://user-images.githubusercontent.com/53148219/97530651-8d177380-19ed-11eb-816f-21c8275e0733.jpg)
+#### Function (函式名稱要與檔案名稱一樣)
