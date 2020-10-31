@@ -6,6 +6,7 @@
 #### Q2.
 #### Q3.
 #### Q4.
+  x = linspace(-4*pi,4*pi,1000);
 #### Q5.
   img = imread('earth.jpg');
   
