@@ -1,5 +1,8 @@
 ## Answer Sheet
 #### Q1.
+  A = zeros(3,3,2);
+  
+  [r,c,cc] = size(A);
 #### Q2.
 #### Q3.
 #### Q4.
